@@ -1,4 +1,4 @@
-![logo]( )
+![logo](https://github.com/SahilChipkar/SahilChipkar/blob/main/Sahil.png)
 <h1 align="center">Hi 👋, I'm Sahil Chipkar</h1>
 <h3 align="center">Data Analyst 2.0 | Python Enthusiast | Problem Solver</h3>
 
